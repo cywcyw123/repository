@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">demo02</string>
+    <string name="btn_login1">login1</string>
+    <string name="btn_login2">login2</string>
+    <string name="title">Sign in to your account.</string>
 </resources>
